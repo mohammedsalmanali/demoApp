@@ -28,5 +28,5 @@ export class ProductListComponent {
       "starRating": 4.2,
       "imageUrl": "assets/images/garden_cart.png"
     },
-  ]
+  ];
 }
